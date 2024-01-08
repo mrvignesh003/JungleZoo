@@ -1,0 +1,346 @@
+.chekbody-don {
+  width: 100vw;
+  height: 100vh;
+}
+.chekvideo-don {
+  z-index: -1;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#chekmyvideo-don {
+  width: 100%;
+}
+.chekvideo-don img {
+  display: none;
+}
+
+.checkfom-don {
+  height: 820px;
+}
+.chekform-box-don {
+  position: absolute;
+  width: 50%;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(15px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 500px;
+  top: 12px;
+  bottom: 10px;
+}
+
+.chekh11-don {
+  color: crimson;
+  font-weight: 600;
+  text-align: center;
+}
+
+/*1*/
+.chekinputbox1-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 250px;
+  border-bottom: 2px solid #fff;
+  left: 140px;
+  top: 100px;
+}
+.chekinputbox1-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox1-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*2*/
+.chekinputbox2-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 300px;
+  border-bottom: 2px solid #fff;
+  right: 140px;
+  top: 100px;
+}
+.chekinputbox2-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox2-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*3*/
+.chekinputbox3-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 250px;
+  border-bottom: 2px solid #fff;
+  left: 140px;
+  top: 230px;
+}
+.chekinputbox3-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox3-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*4*/
+.chekinputbox4-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 310px;
+  right: 130px;
+  top: 200px;
+}
+.chekinputbox4-don label {
+  position: relative;
+  bottom: 106px;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox4-don textarea {
+  background: transparent;
+  height: 80px;
+  width: 300px;
+  color: #fff;
+  resize: none;
+}
+/*5*/
+.chekinputbox5-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 250px;
+  border-bottom: 2px solid #fff;
+  left: 140px;
+  top: 330px;
+}
+.chekinputbox5-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox5-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*6*/
+.chekinputbox6-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 300px;
+  border-bottom: 2px solid #fff;
+  right: 140px;
+  top: 330px;
+}
+.chekinputbox6-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox6-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*7*/
+.chekinputbox7-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 150px;
+  border-bottom: 2px solid #fff;
+  left: 140px;
+  top: 430px;
+}
+.chekinputbox7-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox7-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*8*/
+.chekinputbox8-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 310px;
+  border-bottom: 2px solid #fff;
+  right: 130px;
+  top: 430px;
+}
+.chekinputbox8-don label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox8-don input {
+  width: 100%;
+  height: 50px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  padding: 0 35px 0 5px;
+  color: #fff;
+}
+/*9*/
+.chekinputbox9-don {
+  position: absolute;
+  margin: 30px 0;
+  width: 310px;
+  text-align: center;
+  bottom: 190px;
+}
+.chekinputbox9-don label {
+  position: relative;
+  bottom: 30px;
+  left: 5px;
+  transform: translateY(-50%);
+  color: #fff;
+  font-size: 1em;
+  pointer-events: none;
+}
+.chekinputbox9-don textarea {
+  background: transparent;
+  height: 80px;
+  width: 500px;
+  right: 75px;
+  top: 100px;
+  position: relative;
+  color: #fff;
+  resize: none;
+}
+
+.giftchek-don {
+  position: absolute;
+  left: 300px;
+  bottom: 280px;
+  color: #fff;
+}
+.giftchek-don .gifcheklab-don {
+  position: relative;
+  left: 90px;
+  bottom: 10px;
+}
+.giftchek-don .giftcheklab-don {
+  position: relative;
+  right: 64px;
+  bottom: 20px;
+}
+.giftchek-don .giftcheklab1-don {
+  position: relative;
+  left: 22px;
+  bottom: 20px;
+}
+
+.cheklin-don {
+  height: 50px;
+  width: 15%;
+  border-radius: 25px;
+  background: aqua;
+  cursor: pointer;
+  border: none;
+  outline-offset: 2px;
+  font-size: 1rem;
+  position: absolute;
+  right: 26rem;
+  top: 50rem;
+  padding: 0px;
+  font-weight: 540;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px 2px #000;
+}
+.cheksp-don {
+  display: block;
+  padding: 15px 10px;
+  border-radius: 25px;
+  font-size: 1rem;
+  text-transform: uppercase;
+
+  background: #000;
+  box-shadow: none;
+  color: aqua;
+  transform: translateY(-6px);
+}
+.cheklin-don:active .cheksp-don {
+  transform: translateY(-2px);
+}

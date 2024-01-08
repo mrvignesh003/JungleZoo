@@ -1,0 +1,552 @@
+.internsec-ti {
+  background: linear-gradient(180deg, #ffffff, #41b0a3);
+
+}
+.card-ti {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  top: 200px;
+  left: 200px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti img {
+  position: relative;
+  width: 350px;
+  height: 150px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+  padding: 10px;
+}
+.card-ti:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti {
+  padding: 2px 16px;
+}
+.amount1 {
+  position: relative;
+  left: 195px;
+}
+.card-ti h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+}
+.amount2 {
+  position: relative;
+  left: 60px;
+}
+.amount3 {
+  position: relative;
+  left: 106px;
+}
+.amou-bu-1 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 80px;
+}
+
+.amou-bu-1:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.amou-bu-1:active {
+  transform: translateY(-1px);
+}
+/*Ticket-2 */
+.card-ti-2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  bottom: 480px;
+  left: 780px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti-2 img {
+  position: relative;
+  width: 350px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti-2 h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti-2 h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+  padding: 4px;
+}
+.card-ti-2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti-2 {
+  padding: 2px 16px;
+}
+.amount1-2 {
+  position: relative;
+  left: 195px;
+}
+.card-ti-2 h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.amount1-v2 {
+  position: relative;
+  left: 125px;
+
+}
+.amount1-v3 {
+  position: relative;
+  left: 82px;
+}
+.amount1-v4 {
+  position: relative;
+  left: 82px;
+}
+.amount1-v5 {
+  position: relative;
+  left: 218px;
+}
+.amou-bu-1-2 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 80px;
+}
+
+.amou-bu-1-2:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.amou-bu-1-2:active {
+  transform: translateY(-1px);
+}
+
+/*Ticket-3 */
+
+.card-ti-3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  bottom: 1160px;
+  left: 1350px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti-3 img {
+  position: relative;
+  width: 350px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti-3 h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti-3 h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+  padding: 7px;
+}
+.card-ti-3:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti-3 {
+  padding: 2px 16px;
+}
+.amount1-3 {
+  position: relative;
+  left: 195px;
+}
+.card-ti-3 h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+}
+.amount2-3 {
+  position: relative;
+  left: 60px;
+}
+.amount3-3 {
+  position: relative;
+  left: 106px;
+}
+.amou-bu-1-3 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 70px;
+}
+
+.amou-bu-1-3:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.amou-bu-1-3:active {
+  transform: translateY(-1px);
+}
+
+/*Ticket-4 */
+
+.card-ti-4 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  bottom: 900px;
+  left: 200px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti-4 img {
+  position: relative;
+  width: 350px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti-4 h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti-4 h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+  padding: 5px;
+}
+.card-ti-4:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti-4 {
+  padding: 2px 16px;
+}
+.amount1-4 {
+  position: relative;
+  left: 195px;
+}
+.card-ti-4 h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.amount1-l4 {
+  position: relative;
+  left: 95px;
+}
+.amount1-13 {
+  position: relative;
+  left: 118px;
+}
+.amount1-12 {
+  position: relative;
+  left: 150px;
+}
+.amou-bu-1-4 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 80px;
+}
+
+.amou-bu-1-4:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.amou-bu-1-4:active {
+  transform: translateY(-1px);
+}
+
+/*Ticket-5 */
+
+.card-ti-5 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  bottom: 1650px;
+  left: 780px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti-5 img {
+  position: relative;
+  width: 350px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti-5 h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti-5 h1 {
+  color: red;
+  position: relative;
+  background-color: yellow;
+  text-align: center;
+}
+.card-ti-5:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti-5 {
+  padding: 2px 16px;
+}
+.amount1-5 {
+  position: relative;
+  left: 195px;
+}
+.card-ti-5 h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.amount2-5 {
+  position: relative;
+  left: 60px;
+}
+.amount3-5 {
+  position: relative;
+  left: 106px;
+}
+.amount1-b5 {
+  position: relative;
+  left: 120px;
+}
+.amount2-b5 {
+  position: relative;
+  left: 105px;
+}
+.amou-bu-1-5 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 70px;
+}
+.amou-bu-1-5:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+/*Ticket-6 */
+
+.card-ti-6 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 20%;
+  position: relative;
+  bottom: 2402px;
+  left: 1350px;
+  background: linear-gradient(180deg, #ffffff, #00f0d4);
+}
+.card-ti-6 img {
+  position: relative;
+  width: 350px;
+  left: 16px;
+  top: 10px;
+}
+.card-ti-6 h4 {
+  color: red;
+  position: relative;
+  left: 250px;
+}
+.card-ti-6 h1 {
+  color: red;
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+  padding: 7px;
+}
+.card-ti-6:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-ti-6 {
+  padding: 2px 16px;
+}
+.amount2-6-4 {
+  position: relative;
+  left: 90px;
+}
+.amount1-6-2 {
+  position: relative;
+  left: 128px;
+}
+.amount1-6-3 {
+  position: relative;
+  left: 113px;
+}
+.card-ti-6 h5 {
+  font-weight: 200;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+.amou-bu-1-6 {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  top: 10px;
+  left: 80px;
+}
+
+.amou-bu-1-6:hover {
+  background-color: #00ff99;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+.amou-bu-1-6:active {
+  transform: translateY(-1px);
+}
+
+/*text*/
+.indent-ti{
+  position: absolute;
+  top: 1900px;
+}
+.indent-ti p {
+  margin-left: 160px;
+  margin-right: 100px;
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  color: #131212;
+  line-height: 40px;
+}
+.indent-ti h6 {
+  margin-left: 10rem;
+  margin-top: 100px;
+  font-size: 2rem;
+  color: brown;
+}
+.indent-ti h6::before {
+  content: "";
+  position: absolute;
+  border-bottom: 3px solid brown;
+  width: 20%;
+  height: 1.5em;
+}
+
+.uul-ti li {
+list-style-type: circle;
+margin-left: 300px;
+font-size: 23px;
+line-height: 50px;
+}

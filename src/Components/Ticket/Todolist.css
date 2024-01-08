@@ -1,0 +1,34 @@
+.col-xl-to{
+    position: relative;
+    top: 250px;
+    left: 200px;
+}
+.col-xl-to p{
+    position: relative;
+    top: 60px;
+    right: 245px;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+.btn-outline-primary-too{
+    position: relative;
+    bottom: 26px;
+    left: 78px;
+    width: 6%;
+    background-color: rgb(220, 20, 20);
+    border-radius: 5px;
+}
+.btn-outline-primary-to{
+    position: relative;
+    top: 26px;
+    right: 29px;
+    width: 6%;
+    background-color: rgb(220, 20, 20);
+    border-radius: 5px;
+}
+.form-control-to{
+    position: relative;
+    width: 20%;
+    text-align: center;
+}

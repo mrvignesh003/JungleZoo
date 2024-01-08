@@ -1,0 +1,224 @@
+.chekbody-2-stu {
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .checkfom-2-stu {
+    height: 820px;
+  }
+  .chekform-box-2-stu {
+    position: absolute;
+    width: 50%;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 500px;
+    top: 12px;
+    bottom: 20px;
+  }
+  
+  .chekh11-2-stu {
+    color: crimson;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  /*1*/
+  .chekinputbox1-2-stu {
+    position: absolute;
+    margin: 30px 0;
+    width: 250px;
+    border-bottom: 2px solid #000000;
+    left: 250px;
+    top: 100px;
+  }
+  .chekinputbox1-2-stu label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #fffcfc;
+    font-weight: 700;
+    font-size: 23px;
+    pointer-events: none;
+  }
+  .chekinputbox1-2-stu input {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding: 0 35px 0 5px;
+    color: #050505;
+  }
+  /*2*/
+  .chekinputbox2-2-stu {
+    position: absolute;
+    margin: 30px 0;
+    width: 300px;
+    border-bottom: 2px solid #000000;
+    right: 405px;
+    top: 190px;
+  }
+  .chekinputbox2-2-stu label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 700;
+    pointer-events: none;
+  }
+  .chekinputbox2-2-stu input {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding: 0 35px 0 5px;
+    color: #000000;
+  }
+  
+  /*4*/
+  
+  .shipchek-2-stu {
+    position: absolute;
+    left: 140px;
+    bottom: 180px;
+    color: #000000;
+  }
+  .shipchek-2-stu .shicheklab-2-stu {
+    position: relative;
+    left: 20px;
+    bottom: 20px;
+  }
+  .shipchek-2-stu .shicheklab1-2-stu {
+    position: relative;
+    left: 223px;
+    bottom: 20px;
+  }
+  .giftchek-2-stu {
+    position: absolute;
+    right: 500px;
+    top: 700px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .giftchek-2-stu .gifcheklab-2-stu {
+    position: relative;
+    left: 90px;
+    bottom: 10px;
+  }
+  .giftchek-2-stu .giftcheklab-2-stu {
+    position: relative;
+    right: 64px;
+    bottom: 20px;
+  }
+  .giftchek-2-stu .giftcheklab1-2-stu {
+    position: relative;
+    left: 22px;
+    bottom: 20px;
+  }
+  
+  .cheklin-2-stu {
+    height: 50px;
+    width: 15%;
+    border-radius: 25px;
+    background: aqua;
+    cursor: pointer;
+    border: none;
+    outline-offset: 2px;
+    font-size: 1rem;
+    position: absolute;
+    right: 26rem;
+    top: 50rem;
+    padding: 0px;
+    font-weight: 540;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 2px 2px #000;
+  }
+  .cheksp-2-stu {
+    display: block;
+    padding: 15px 10px;
+    border-radius: 25px;
+    font-size: 1rem;
+    text-transform: uppercase;
+  
+    background: #000;
+    box-shadow: none;
+    color: aqua;
+    transform: translateY(-6px);
+  }
+  .cheklin-2-stu:active .cheksp-2-stu {
+    transform: translateY(-2px);
+  }
+  .tic-form-1-stu {
+    position: relative;
+    top: 230px;
+  }
+  .tic-form-1-stu label {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    right: 45px;
+    color: #ffff;
+  }
+  .tic-form-1-stu select {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    width: 200px;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    left: 23px;
+  }
+  .tic-form-2-stu {
+    position: relative;
+    top: 280px;
+  }
+  .tic-form-2-stu label {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    right: 45px;
+    color: #ffff;
+  }
+  .tic-form-2-stu select {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    width: 200px;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+  }
+  .tic-form-3-stu {
+    position: relative;
+    top: 330px;
+  }
+  .tic-form-3-stu label {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    right: 45px;
+    color: #ffff;
+  }
+  .tic-form-3-stu select {
+    position: relative;
+    font-size: 27px;
+    font-weight: 800;
+    width: 200px;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    left: 30px;
+  }
+  

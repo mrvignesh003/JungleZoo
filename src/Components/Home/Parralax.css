@@ -1,0 +1,86 @@
+*.parallax {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.hill1 {
+  position: absolute;
+  width: 119rem;
+}
+#text {
+  position: fixed;
+  font-size: 5em;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 2);
+}
+
+.bird {
+  top: 85px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.lion {
+  top: 780px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.dear {
+  top: 760px;
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
+.para {
+  position: absolute;
+  width: 119rem;
+  pointer-events: none;
+  transform-origin: 50% 100%;
+  animation: para 3s infinite;
+}
+@keyframes para {
+  80% {
+    transform: rotate(6deg);
+  }
+}
+.para1 {
+  position: absolute;
+  width: 119rem;
+  pointer-events: none;
+  transform-origin: 100% 90%;
+  animation: para 5s infinite;
+}
+@keyframes para {
+  80% {
+    transform: rotate(1deg);
+  }
+}
+.para2 {
+  position: absolute;
+  width: 119rem;
+  pointer-events: none;
+  transform-origin: 100% 90%;
+  animation: para 5s infinite;
+}
+@keyframes para {
+  80% {
+    transform: rotate(0.9deg);
+  }
+}
+.para3 {
+  position: absolute;
+  width: 119rem;
+  pointer-events: none;
+  transform-origin: 100% 95%;
+  animation: para 5s infinite;
+}
+@keyframes para {
+  80% {
+    transform: rotate(0.5deg);
+  }
+}

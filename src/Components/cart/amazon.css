@@ -1,0 +1,36 @@
+
+.amz1 {
+  font-size: 50px;
+  color: crimson;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef,
+    0 0 10px #0ef;
+  top: 180px;
+  background-image: url(../../assets/Home/vines4.png);
+}
+.amz2{
+    font-size: 50px;
+  color: crimson;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef,
+    0 0 10px #0ef;
+  top: 8132px;
+  background-image: url(../../assets/Home/vines4.png);
+
+}
+.amz3{
+  font-size: 50px;
+  color: crimson;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef, 0 0 10px #0ef,
+    0 0 10px #0ef;
+  top: 13256px;
+  background-image: url(../../assets/Home/vines4.png);
+}
+
+.linear{
+  background: linear-gradient(180deg,#FFFFFF,#d0eefa,#d0eefa,#d0eefa,#8edad1,#8edad1,#8edad1);
+}
